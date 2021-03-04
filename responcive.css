@@ -1,1 +1,5 @@
-
+@media(max-width:1000px){
+  footer{
+    text-align:center;
+  }
+}
