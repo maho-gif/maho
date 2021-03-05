@@ -2,6 +2,9 @@
   footer{
     text-align:center;
   }
+  .menu-icon{
+    display:none;
+  }
 }
 
 @media(max-width:670px){
