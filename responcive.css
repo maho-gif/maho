@@ -17,4 +17,8 @@
   .uni_life-content{
     width:100%
   }
+  .dream p{
+    width:50%
+    float:left;
+  }
 }
