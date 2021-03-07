@@ -2,6 +2,10 @@
   box-sizing:border-box;
 }
 
+html{
+  margin:0;
+}
+
 body{
   max-width:1170px;
   width: 100%;
