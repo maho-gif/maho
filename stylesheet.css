@@ -31,8 +31,8 @@ body{
   margin-left: 20px;
 }
 
-.menu-icon2 {
-  color: white;
+.menu-icon {
+  color: red;
   float: right;
   font-size: 25px;
   padding:35px 35px;
