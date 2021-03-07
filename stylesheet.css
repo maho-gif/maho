@@ -10,7 +10,6 @@ body{
 .header{
   background-color: rgba(95,158,160,0.8);
   color: white;
-  display: inline-block;
   width: 100%;
   position: fixed;
   top: 0px;
