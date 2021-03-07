@@ -114,8 +114,12 @@ h{
   margin-left: -20px;
 }
 
-.uni.life{
+.uni_life{
   width: 100%;
+}
+
+.uni_life h{
+  margin:0px 30px;
 }
 
 .uni_life img{
