@@ -107,6 +107,7 @@ body{
   border-bottom: 1px solid black;
   border-left: 10px solid black;
   width: 100%;
+  display:inline-block;
 }
 
 .profile p{
@@ -135,6 +136,7 @@ body{
   border-bottom: 1px solid black;
   border-left: 10px solid black;
   width: 100%;
+  desplay:inline-block;
 }
 
 .uni_life-content{
@@ -201,6 +203,7 @@ body{
   border-bottom: 1px solid black;
   border-left: 10px solid black;
   width: 100%;
+  display:inline-block;
 }
 
 .dream-img{
