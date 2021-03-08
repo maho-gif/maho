@@ -30,3 +30,8 @@ body{
   max-width:1000px;
   margin:0 auto;
 }
+
+.profile-image img{
+  width:450px;
+}
+
