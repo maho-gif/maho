@@ -31,7 +31,20 @@ body{
   margin:0 auto;
 }
 
+.profile{
+  width:100%;
+}
+
+.profile-image{
+  float:left;
+}
+
 .profile-image img{
   width:450px;
 }
 
+.profile-contents{
+  width:450px;
+  font-size:2rem;
+  font-family:"游ゴシック","ヒイラギノ角ゴ Pron","メイリオ","MS Pゴシック",sans-serif;
+}
