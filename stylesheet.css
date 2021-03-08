@@ -42,8 +42,6 @@ body{
   text-decoration: none;
 }
 
-@media screen and()
-
 .main{
   width:100%;
 }
@@ -121,6 +119,7 @@ body{
   width:500px;
   height:250px;
   float:left;
+  overflow:hidden;
 }
 
 .uni_life-img img{
