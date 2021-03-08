@@ -20,3 +20,13 @@ body{
   top: 0px;
   z-index: 10;
 }
+
+.main{
+  width:100%;
+}
+
+.main-contents{
+  width:80%;
+  max-width:1000px;
+  margin:0 auto;
+}
