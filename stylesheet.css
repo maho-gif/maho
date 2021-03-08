@@ -7,6 +7,10 @@
     desplay:none!important;
   }
   
+  .uni_life-content{
+    width:100%
+  }
+  
 @media screen and(min-width:1001px){
   .menu-icon{
     desplay:none!important;
