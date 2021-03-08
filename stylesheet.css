@@ -138,13 +138,24 @@ body{
 }
 
 .uni_life-content{
-  width: 50%;
   margin:10px;
   float: left;
   box-shadow: 8px 8px 4px #dddddd;
 }
 
-.uni_life img{
+@media screen and(max-width:1000px){
+  .uni_life-content{
+    width:100%
+  }
+}
+  
+@media screen and()min-width:1001px){
+  .uni_life-content{
+    width:50%
+  }
+}
+
+.uni_life-image img{
   width: 450px;
   float: left;
 }
