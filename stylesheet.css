@@ -2,6 +2,16 @@
   box-sizing:border-box;
 }
 
+@media screen and(max-width:1000px){
+  .header-right{
+    desplay:none!important;
+  }
+  
+@media screen and(min-width:1001px){
+  .menu-icon{
+    desplay:none!important;
+  }
+
 html{
   margin:0;
 }
