@@ -157,9 +157,12 @@ body{
   }
 }
 
+.uni_life-image{
+  float:left
+}
+
 .uni_life-image img{
   width: 450px;
-  float: left;
 }
 
 .uni_life-title{
