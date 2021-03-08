@@ -107,7 +107,6 @@ body{
   border-bottom: 1px solid black;
   border-left: 10px solid black;
   width: 100%;
-  display: inline-block;
 }
 
 .profile p{
@@ -128,7 +127,6 @@ body{
 }
 
 .uni_life h{
-  h{
   font-size: 40px;
   margin-top: 30px;
   padding-left: 10px;
@@ -137,25 +135,25 @@ body{
   border-bottom: 1px solid black;
   border-left: 10px solid black;
   width: 100%;
-  display: inline-block;
-}
-
-.uni_life img{
-  width: 300px;
-  float: left;
 }
 
 .uni_life-content{
   width: 50%;
+  margin:10px;
   float: left;
   box-shadow: 8px 8px 4px #dddddd;
 }
 
+.uni_life img{
+  width: 450px;
+  float: left;
+}
+
 .uni_life-title{
-  background-color:;
-  width:290px;
+  width:430px;
   height: 30px;
-  margin-left: 10px;
+  margin-left: 25px;
+  margin-right:25px;
   float: left;
   font-family:"游ゴシック","ヒイラギノ角ゴ Pron","メイリオ","MS Pゴシック",sans-serif;
   font-size: 23px;
@@ -164,9 +162,10 @@ body{
 
 .uni_life-body{
   background-color: ;
-  width: 290px;
-  height: 240px;
-  margin-left: 10px;
+  width: 430px;
+  height: 420px;
+  margin-left: 25px;
+  margin-right:25px;
   margin-top:20px;
   float: left;
   font-family:"游ゴシック","ヒイラギノ角ゴ Pron","メイリオ","MS Pゴシック",sans-serif;
@@ -191,7 +190,6 @@ body{
   border-bottom: 1px solid black;
   border-left: 10px solid black;
   width: 100%;
-  display: inline-block;
 }
 
 .dream-img{
