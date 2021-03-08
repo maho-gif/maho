@@ -96,12 +96,12 @@ body{
   font-family: 'Century Gothic';
 }
 
-h{
+.profile-contents h{
   font-size: 40px;
   margin-top: 20px;
   padding-left: 10px;
   padding-bottom: 2px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   border-bottom: 1px solid black;
   border-left: 10px solid black;
   width: 100%;
@@ -121,17 +121,21 @@ h{
   clear: both;
 }
 
-.profile h{
-  margin-left: -20px;
-}
-
 .uni_life{
   width: 100%;
 }
 
 .uni_life h{
-  margin-top:30px;
-  margin-bottom:30px;
+  h{
+  font-size: 40px;
+  margin-top: 30px;
+  padding-left: 10px;
+  padding-bottom: 2px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid black;
+  border-left: 10px solid black;
+  width: 100%;
+  display: inline-block;
 }
 
 .uni_life img{
@@ -177,7 +181,15 @@ h{
 
 
 .dream h{
+  font-size: 40px;
   margin-top: 50px;
+  padding-left: 10px;
+  padding-bottom: 2px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid black;
+  border-left: 10px solid black;
+  width: 100%;
+  display: inline-block;
 }
 
 .dream-img{
