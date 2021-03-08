@@ -74,7 +74,7 @@ body{
 }
 
 .profile{
-  height: 667px;
+  height: 600px;
   width:100%;
   background-color:#eeeeee;
 }
@@ -90,9 +90,8 @@ body{
 .profile-contents{
   padding-left:25px;
   padding-right:25px;
-  padding-top: 20px;
   float: left;
-  height: 667px;
+  height: 600px;
   width: 450px;
   font-family: 'Century Gothic';
 }
