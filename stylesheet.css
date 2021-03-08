@@ -3,19 +3,29 @@
 }
 
 @media screen and(max-width:1000px){
+  .main{
+    background-color:red;
+  }
   .header-right{
     desplay:none!important;
   }
-  
   .uni_life-content{
     width:100%
   }
+}
   
 @media screen and(min-width:1001px){
+  .main{
+    background-color:blue;
+  }
   .menu-icon{
     desplay:none!important;
   }
-
+  .uni_life-content{
+    width:50px
+  }
+}
+  
 html{
   margin:0;
 }
