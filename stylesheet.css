@@ -37,9 +37,6 @@ body{
   padding:35px 35px;
 }
 
-[hidden]{
-  display:none!important;
-
 .header-right{
   float: right;
   font-size: 20px;
