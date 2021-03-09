@@ -211,6 +211,8 @@ body{
   text-align:center;
   background-color: rgba(95,158,160,0.7);
   color: white;
+  margin-left:0px;
+  margin-right:0px;
 }
 
 .footer-logo{
