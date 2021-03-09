@@ -36,6 +36,12 @@ body{
   text-align:right;
 }
 
+@media screen and(max-width:700px){
+  .header-right{
+    display:block;
+  }
+}
+
 .header-right a{
   padding: 0px 10px;
   color: white;
