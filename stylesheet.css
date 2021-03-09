@@ -118,13 +118,15 @@ body{
 
 .uni_life-content{
   width:500px;
-  height:250px;
+  height:240px;
+  margin-top:10px;
   float:left;
   overflow:hidden;
 }
 
 .uni_life-img img{
   width:240px;
+  height:240px;
 }
 
 .uni_life-img{
